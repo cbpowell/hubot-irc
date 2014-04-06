@@ -23,7 +23,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "irc": "cbpowell/node-irc",
+    "irc": "https://github.com/cbpowell/node-irc/tarball/master",
     "log": "1.4.0"
   },
   "devDependencies": {
