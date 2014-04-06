@@ -23,7 +23,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "irc": "git+https://github.com/cbpowell/node-irc.git",
+    "irc": "cbpowell/node-irc",
     "log": "1.4.0"
   },
   "devDependencies": {
